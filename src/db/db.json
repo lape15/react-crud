@@ -1,0 +1,86 @@
+{
+  "customers": [
+    {
+      "firstName": "barny",
+      "lastName": "Gates",
+      "email": "Barg@gmail.com",
+      "phone": "07068596909",
+      "id": 0
+    },
+    {
+      "firstName": "James",
+      "lastName": "Adesola",
+      "email": "Jam@gmail.com",
+      "phone": "07068596912",
+      "id": 1
+    },
+    {
+      "firstName": "Moyo",
+      "lastName": "Shonubi",
+      "email": "Shnub@gmail.com",
+      "phone": "07068596914",
+      "id": 2
+    },
+    {
+      "firstName": "Lape",
+      "lastName": "Akin",
+      "email": "Lape@gmail.com",
+      "phone": "07068596934",
+      "id": 3
+    },
+    {
+      "firstName": "Oju",
+      "lastName": "Blackie",
+      "email": "Ojublaq@gmail.com",
+      "phone": "07068596945",
+      "id": 4
+    },
+    {
+      "firstName": "Funmi",
+      "lastName": "Sholes",
+      "email": "Funsh@gmail.com",
+      "phone": "07068596998",
+      "id": 5
+    },
+    {
+      "phone": "09059680877",
+      "id": 6
+    },
+    {
+      "phone": "09059680877",
+      "id": 7
+    },
+    {
+      "phone": "08070776165",
+      "id": 8
+    },
+    {
+      "firstName": "Lade",
+      "lastName": "peter",
+      "email": "lane@gmail.com",
+      "phone_no": "080970685995",
+      "id": 9
+    },
+    {
+      "firstName": "lape",
+      "lastName": "layne",
+      "email": "larape1993@gmail.com",
+      "phone_no": "09068793756",
+      "id": 10
+    },
+    {
+      "firstName": {
+        "phone": "09098765789"
+      },
+      "id": 11
+    },
+    {
+      "phone": "08070776165",
+      "id": 12
+    },
+    {
+      "phone": "0908796857",
+      "id": 13
+    }
+  ]
+}

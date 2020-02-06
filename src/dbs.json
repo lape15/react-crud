@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "firstName": "barny",
+      "lastName": "Gates",
+      "email": "Barg@gmail.com",
+      "phoneNo": "07068596909",
+      "id": 0
+    },
+    {
+      "firstName": "James",
+      "lastName": "Adesola",
+      "email": "Jam@gmail.com",
+      "phoneNo": "07068596912",
+      "id": 1
+    },
+    {
+      "firstName": "Moyo",
+      "lastName": "Shonubi",
+      "email": "Shnub@gmail.com",
+      "phoneNo": "07068596914",
+      "id": 2
+    },
+    {
+      "firstName": "Lape",
+      "lastName": "Akin",
+      "email": "Lape@gmail.com",
+      "phoneNo": "07068596934",
+      "id": 3
+    },
+    {
+      "firstName": "Oju",
+      "lastName": "Blackie",
+      "email": "Ojublaq@gmail.com",
+      "phoneNo": "07068596945",
+      "id": 4
+    },
+    {
+      "firstName": "Funmi",
+      "lastName": "Sholes",
+      "email": "Funsh@gmail.com",
+      "phoneNo": "07068596998",
+      "id": 5
+    }
+  ]
+}
