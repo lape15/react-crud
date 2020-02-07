@@ -14,14 +14,12 @@ import {
 import Header from "components/Headers/Header.jsx";
 
 const NewCustomer = props => {
-  const [newCustomer, setNewCustomer] = useState([
-    {
-      firstName: "",
-      lastName: "",
-      email: "",
-      phone: ""
-    }
-  ]);
+  const [newCustomer, setNewCustomer] = useState({
+    firstName: "",
+    lastName: "",
+    email: "",
+    phone: ""
+  });
 
   const handleFormSubmit = e => {
     e.preventDefault();
@@ -38,6 +36,7 @@ const NewCustomer = props => {
   const handleChange = e => {
     const { name, value } = e.target;
     setNewCustomer({
+      ...newCustomer,
       [name]: value
     });
   };
