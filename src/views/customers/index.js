@@ -35,6 +35,9 @@ const Customers = props => {
         // console.log(id); checking to see if id logs
         customerData.push(id);
         setCustomers(customerData);
+      })
+      .catch(error => {
+        console.log(error);
       });
   };
 
